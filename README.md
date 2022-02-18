@@ -11,4 +11,4 @@ nitrate. In this work, along with finding the optimal temperature trajectories, 
 choice of objectives on the final achievable Pareto front is analyzed using two different
 objective functions, namely number mean size and surface-weighted mean size. Further, the
 capability of MOO is also exploited to determine the feasible ranges of combinations of seed
-properties like initial seed mass and seed mean size for better crystal size distribution (CSD
+properties like initial seed mass and seed mean size for better crystal size distribution (CSD)
